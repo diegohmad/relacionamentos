@@ -1,0 +1,7 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://diegodiniz:KX3GGm7oIUCpzAZx@cluster0.m9w50.mongodb.net/
+            database: relacionamentos
+            lazy-loading:
+                enabled: false
